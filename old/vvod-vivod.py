@@ -1,0 +1,12 @@
+
+name=input("enter Name \n")
+print("============================")
+print(name)
+print("============================")
+x=input("Enter X\n")
+print("============================")
+y=input("Enter Y\n")
+print("============================")
+s = int(x)   +  int(y)
+print(s)
+print("============================")
